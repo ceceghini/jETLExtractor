@@ -1,5 +1,0 @@
-# File proprieta
-ORA_CS = 192.168.1.65:1521:svi9i
-ORA_USERNAME = suetl01
-ORA_PASSWORD = suetl01
-INFO_LOG = true
